@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;api/dashboard2.properties&apos; to &apos;dashboard.properties&apos;" description="Rename resource &apos;dashboard2.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="dashboard2.properties" name="dashboard.properties" stamp="1510746807639" updateReferences="true"/>
+</session>

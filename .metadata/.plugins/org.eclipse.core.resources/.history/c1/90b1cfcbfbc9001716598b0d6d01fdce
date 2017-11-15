@@ -1,0 +1,8 @@
+#dbname=dashboarddb
+dbname=dashboarddb
+dbusername=db2user
+dbpassword=db2pwd
+dbhost=localhost
+dbport=27017
+server.contextPath=/api
+server.port=8080

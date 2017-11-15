@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1510743543516_2" label="Hygieia" name="Hygieia">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-audit" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/artifactory-artifact-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bamboo-build-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-build-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-cucumber-test-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-codequality" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sonar-codequality-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/aws-cloud-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/udeploy-deployment-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xldeploy-deployment-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jira-feature-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/versionone-feature-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gitlab-feature-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/chat-ops-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/appdynamics-performance-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bitbucket-scm-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/github-scm-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/subversion-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gitlab-scm-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hpsm-cmdb-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nexus-iq-collector" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hygieia-jenkins-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UI-tests" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1510737254634_0" label="Window Working Set" name="Aggregate for window 1510737254633"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1510740410693_1" label="Window Working Set" name="Aggregate for window 1510740410693"/>
+</workingSetManager>
